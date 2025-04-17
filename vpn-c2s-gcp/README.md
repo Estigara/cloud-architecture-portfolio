@@ -21,7 +21,7 @@ Nesse cenário, o mais interessante é trabalhar com a modalidade de VPN Client-
 - Dessa forma, é possível usar a versão community sem que haja nenhum custo, criar os usuários, e deixar o serviço de prontidão para que caso haja indisponibilidade no túnel principal, seja utilizada a contingência.
 
 ## Diagrama
-![diagrama](./architecture-diagram.png)
+![diagrama](./vpn-c2s-gcp-diagram.jpg)
 
 ## Custos (GCP São Paulo)
 Custos fixo:
