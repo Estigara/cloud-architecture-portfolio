@@ -44,7 +44,7 @@ Espero que tenha conseguido se conectar um pouco comigo! Abaixo deixo alguns cas
 | Nome do Projeto | Tipo | Cloud | Link | 
 |-----------------|------|-------|------|
 | Migração AWS para GCP | Estudo de caso | 🚧 |
-| Substituição de D.R de VPN para o GCP | Projeto | GCP | 🚧 |
+| Criação de VPN Client-to-Site na GCP | Projeto | GCP | [Link](https://github.com/Estigara/cloud-architecture-portfolio/blob/main/vpn-c2s-gcp/README.md) | ✅
 | Migração de Protheus para a nuvem | Estudo de caso | 🚧 |
 | Deep-dive sobre VPCs em diferentes nuvens | Estudo de caso | AWS e Azure | 🚧 |
 | Lock-in de licenciáveis na nuvem | Estudo de caso | Azure e Oracle |🚧|
