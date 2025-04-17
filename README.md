@@ -7,7 +7,7 @@ Neste repositório compartilho alguns projetos dos quais já trabalhei, trazendo
 
 ## 📚 Formação Acadêmica & Certificações
 - 👨🏼‍🎓 Bacharel em Sistemas de Informação pela UniSantaCruz de Curitiba
-      ⬆️ Pós-Graduado em Gestão Estratégica de Negócios pela Escola Conquer
+- ⬆️ Pós-Graduado em Gestão Estratégica de Negócios pela Escola Conquer
 - ☁️ GCP Professional Cloud Architect | GCP Associate Cloud Engineer
 - ☁️ AWS Solutions Architect Associate | AWS Cloud Practitioner
 - ☁️ AZ-900: Azure Fundamentals | MS-900: Microsoft 365 Fundamentals
@@ -16,10 +16,10 @@ Neste repositório compartilho alguns projetos dos quais já trabalhei, trazendo
 
 ## 🧰 Por que escolhi o setor de pré-venda e Arquitetura em Cloud Computing:
 
-Já atuei como Sales Development Representative, Consultor Comercial B2B, Projetista Cloud e Empresário. Cada um desses setores me trouxe aprendizados extremamente significantes para:
-
+Já atuei como Sales Development Representative, Consultor Comercial B2B, Projetista Cloud e Empresário. Cada um desses setores me trouxeram aprendizados extremamente significantes para:
 - Entender as reais dores de meus clientes e encontrar aonde o problema realmente está (E muitas vezes nem o próprio cliente sabe);
 - Entender aquilo que é realmente relevante para o negócio do cliente;
+- Projetar arquiteturas disponíveis e escaláveis que sigam as melhores práticas de eficiência operacional, custos, segurança, dentre outros pilares;
 - Conectar as necessidades do cliente com as opções tecnológicas disponíveis no mundo cloud (Entregar aquilo que realmente faz sentido, visando o ganho que pode ser obtido pelo cliente);
 - Saber trabalhar com medos e objeções que dificultam o fechamento de uma venda (afinal, é necessário trazer confiança para o cliente entender que aquilo que está sendo ofertado realmente é a melhor opção para ele);
 - Conduzir o projeto e o pós-venda mantendo a satisfação da experiência do cliente;
