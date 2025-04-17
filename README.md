@@ -45,7 +45,7 @@ Espero que tenha conseguido se conectar um pouco comigo! Abaixo deixo alguns cas
 |-----------------|------|-------|------|----------|
 |Criação de VPN Client-to-Site na GCP|Projeto|GCP|[Link](https://github.com/Estigara/cloud-architecture-portfolio/blob/main/vpn-c2s-gcp/README.md)|✅|
 |Conectividade privada entre Nuvens|Estudo de caso||Global|🚧|
-|Migração de dados de uma nuvem para outra - Melhores práticas|AWS, GCP e Azure|Link|🚧|
+|Migração de dados de uma nuvem para outra|Melhores Práticas|AWS, GCP e Azure|Link|🚧|
 |Deep-dive sobre VPCs em diferentes nuvens|Estudo de caso|AWS e Azure|Link|🚧|
 |Migração de Protheus para a nuvem|Estudo de caso|GCP & AWS|Link|🚧|
 |Como fugir dos custos da VMware|Estudo de caso|AWS e GCP|Link|🚧|
