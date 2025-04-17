@@ -28,11 +28,10 @@ Já atuei como Sales Development Representative, Consultor Comercial B2B, Projet
 
 ## 🧠 Considerações:
 
-Trabalhar com serviços em Cloud na minha perspectiva é muito mais do que implantar um ambiente de infraestrutura para o cliente e gerenciar seu ambiente.
-Estou trabalhando com um setor imprescindível para que o negócio do meu cliente se mantenha de pé. Se a infra parar, tudo para.
-É exatamente por isso que eu sou extremamente transparente com meu cliente durante a fase de construção do projeto, e vou muito mais além de levantar a sua infraestrutura atual para mover para uma nova, ou solucionar um problema pontual.
-Eu vou a fundo.
-Quer fazer um projeto? Vou querer saber como a empresa trabalha, buscar compreender quais são seus objetivos estratégicos e perguntar muitas vezes - "Por quê?"
+> Trabalhar com serviços em Cloud na minha perspectiva é muito mais do que implantar um ambiente de infraestrutura para o cliente e gerenciar seu ambiente.
+> Estou trabalhando com um setor imprescindível para que o negócio do meu cliente se mantenha de pé. Se a infra parar, tudo para.
+> É exatamente por isso que eu sou extremamente transparente com meu cliente durante a fase de construção do projeto, e vou muito mais além de levantar a sua infraestrutura atual para mover para uma nova, ou solucionar um problema pontual. Eu vou a fundo.
+> Quer fazer um projeto? Vou querer saber como a empresa trabalha, buscar compreender quais são seus objetivos estratégicos e perguntar muitas vezes - "Por quê?"
 Espero que tenha conseguido se conectar um pouco comigo! Abaixo deixo alguns casos de uso e projetos que trabalhei também para trazer um pouco de conhecimento e "integrá-lo" ao meu método de trabalho:
 
 ---
